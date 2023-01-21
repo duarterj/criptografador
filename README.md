@@ -32,8 +32,8 @@ E esse foi o resultado do meu projeto para o desafio! 😃 <br>
 
 
 
-## Layout resolução Tablet:
-![Layout na versão para Tablet](tablet.png)
+## Layout resolução Ipad, Tablet:
+![Layout na versão para Tablet](ipad.png)
 
 
  

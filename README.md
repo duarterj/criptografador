@@ -24,13 +24,16 @@ E esse foi o resultado do meu projeto para o desafio! 😃 <br>
 
 ## Layout resolução Desktop:
 
-
+![Layout na versão para desktop](desktop.png)
 
 ## Layout resolução Mobile:
+
+![Layout na versão para Mobile](mobile.png)
 
 
 
 ## Layout resolução Tablet:
+![Layout na versão para Tablet](tablet.png)
 
 
  

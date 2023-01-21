@@ -17,8 +17,7 @@ Por exemplo:
 "gato" => "gaitober" <br> 
 gaitober" => "gato" <br> 
 
-O usuário não poderá escrever com letras maiúsculas <br>
-nem usar acentuações <br>
+O usuário não poderá escrever com letras maiúsculas nem usar acentuações <br>
 
 E esse foi o resultado do meu projeto para o desafio! 😃 <br>
 

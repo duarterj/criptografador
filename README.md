@@ -14,7 +14,7 @@ A letra "u" deverá ser convertida para "ufat" <br>
 
 E desenvolver uma descriptografia aonde a lógica seja o oposto <br>
 
-Por exemplo:
+Por exemplo: <br>
 "gato" => "gaitober" <br> 
 "gaitober" => "gato" <br> 
 

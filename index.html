@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="imagens/seguro.png">
+    <title>Criptografador</title>
+</head>
+<body>
+    
+<main class="main-container">
+
+<header class="cabecalho">
+    <img src="imagens/seguro.png" alt="Logo do Criptografador">
+</header>
+
+<div class="container-input">
+
+    <div class="input">
+        <textarea id="input-texto" placeholder="Digite seu texto aqui.."></textarea>
+        <p>&#9888; APENAS LETRAS MINÚSCULAS E SEM ACENTO</p>
+    </div>
+
+
+    <div id="output">
+        <img src="imagens/lupa.png" alt="imagem da Lupa">
+        <h2>Sua mensagem aparecerá aqui</h2>
+        <span>Digite um texto que deseja criptografar ou descriptografar</span>
+    </div>
+</div>
+
+<div class="buttons">
+        <button onclick="criptografar()"class="btn-criptografar">Criptografar</button>
+        <button onclick="descriptografar()"class="btn-descriptografar">Descriptografar</button>
+</div>
+</main>
+
+<footer class="rodape">
+    <div class="icons">
+            <a href="https://github.com/duarterj" target="_blank"> <img src="imagens/github.png" alt="Logo do Github"></ion-icon></a>
+            <a href="https://www.linkedin.com/in/duarterj" target="_blank"> <img src="imagens/linkedin.png" alt="Logo do Linkedin"></ion-icon></a>
+        </div>   
+        <h3>&#169; Desenvolvido por Diogo Duarte - 2023</h3>
+</footer>
+
+<script src="script/script.js"></script>
+</body>
+</html>

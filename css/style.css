@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Montserrat:wght@300&display=swap');
+
+body {
+    background:  rgb(50, 88, 97);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+}
+
+.cabecalho img{
+    margin-left: 3%;
+    max-width: 70px;
+    max-height: 70px;
+    width: auto;
+    height: auto;
+}
+
+.container-input {
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 0 0 4%;
+}
+
+.container-input .input {
+    width: 400px;
+    height: 330px;
+}
+
+.input p {
+    color: white;
+}
+
+#input-texto {
+    width: 345px;
+    height: 330px;
+    font-size: 20px;
+    color: white;
+    background: transparent;
+    box-shadow: none;
+    border: none;
+    outline: 0;
+    padding: 10px;
+    text-transform: lowercase;
+    resize: none;
+}
+
+#input-texto::placeholder {
+    color: white;
+}
+
+#input-resultado {
+    width: 320px;
+    height: 330px;
+    font-size: 20px;
+    color: white;
+    background: transparent;
+    box-shadow: none;
+    border: none;
+    outline: 0;
+    padding: 10px;
+    text-transform: lowercase;
+    resize: none;
+}
+
+#output {
+    border: 2px solid black;
+    background: #4b4a4a;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    width: 430px;
+    height: 450px;
+    margin-right: 3%;
+}
+
+#output h2 {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+#output span {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
+
+#output img{
+    max-width: 150px;
+    max-width: 150px;
+    width: auto;
+    height: auto;
+    margin-top: 14%;
+    margin-left: 32%;
+}
+
+
+.btn-descriptografar {
+    font-size: 16px;
+    background: #4b4a4a;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    width: 150px;
+    height: 50px;
+    margin-left: 4%;
+    cursor: pointer;
+}
+
+.btn-criptografar {
+    font-size: 16px;
+    background: rgb(17, 54, 63);
+    border: 2px solid white;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    width: 150px;
+    height: 50px;
+    margin-left: 4%;
+    cursor: pointer;
+}
+
+
+.btn-copiar {
+    font-size: 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 200px;
+    height: 50px;
+    margin-left: 27%;
+    cursor: pointer;
+}
+
+
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2%;
+    margin-top: 5px;
+    background: black;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.rodape h3 {
+    font-size: 15px;
+}
+
+.icons a:hover {
+    opacity: 0.6;
+    transition: 1.2s;
+}
+
+/* Celulares */
+
+@media (min-width:389px) and (max-width: 450px) {
+
+        .cabecalho img {
+            width: 45px;
+        }
+     
+
+        .input p {
+            font-size: 14px;
+        }
+
+        #output {
+            height: 30%;
+            width: 90%;
+            bottom: 85px;
+            position: fixed;
+        }
+
+        #output img {
+            margin-top: 12%;
+            margin-left: 40%;
+            width: 80px;
+        }
+
+        #output h2 {
+            font-size: 20px;
+        }
+
+        #output span {
+            font-size: 15px;
+        }
+
+        .btn-criptografar, .btn-descriptografar {
+            margin-left: 30px;
+            width: 140px;
+        }
+
+        #input-texto {
+            margin-left: 8px;
+            height: 40%;
+            width: 88%;
+            margin-bottom: 5px;
+            margin-top: 10px;
+        }
+
+        .buttons {
+            margin-left: 1%;
+            position: fixed;
+            top: 42%;
+        }
+        .btn-copiar {
+            position: fixed;
+            height: 40px;
+            width: 150px;
+            margin-left: 27%;
+            bottom: 11%;
+        }
+
+        .rodape h3 {
+            font-size: 13px;
+        }      
+}
+
+/* Celulares Resoluções Menores */
+
+
+@media (min-width:350px) and (max-width: 388px) { 
+
+
+    .cabecalho img {
+        width: 40px;
+    }
+
+    .input p {
+        font-size: 11px;
+    }
+
+    #output {
+        height: 25%;
+        width: 90%;
+        bottom: 85px;
+        position: fixed;
+    }
+
+    #output img {
+        margin-top: 2%;
+        margin-left: 40%;
+        width: 70px;
+    }
+
+    #output h2 {
+        font-size: 15px;
+    }
+
+    #output span {
+        font-size: 11px;
+    }
+
+    .btn-criptografar, .btn-descriptografar {
+        margin-left: 40px;
+        height: 40px;
+        width: 110px;
+        font-size: 12px;
+    }
+
+    #input-texto {
+        margin-left: 10px;
+        height: 35%;
+        width: 88%;
+        margin-bottom: 5px;
+        margin-top: 10px;
+    }
+
+
+    .buttons {
+        position: absolute;
+        top: 42%;
+    }
+    .btn-copiar {
+        position: fixed;
+        height: 40px;
+        width: 150px;
+        margin-left: 25%;
+        bottom: 15%;
+    }
+
+    .rodape h3 {
+        font-size: 11px;
+    }
+
+    
+}
+
+/* Tablets */
+
+@media (min-width:768px) and (max-width: 1024px) {
+
+    .input p {
+        font-size: 14px;
+    }
+
+    #output {
+        height: 30%;
+        width: 91%;
+        bottom: 10%;
+        position: fixed;
+    }
+
+    #output img {
+        margin-top: 8%;
+        margin-left: 40%;
+        width: 130px;
+    }
+
+    #output h2 {
+        font-size: 20px;
+    }
+
+    #output span {
+        font-size: 15px;
+    }
+
+    .btn-criptografar, .btn-descriptografar {
+        margin-left: 30px;
+        width: 140px;
+    }
+
+    #input-texto {
+        margin-left: 10px;
+        height: 55%;
+        width: 88%;
+        margin-bottom: 5px;
+        margin-top: 30px;
+    }
+
+
+    .buttons {
+        position: absolute;
+        left: 0%;
+        top: 40%;
+    }
+    .btn-copiar {
+        position: fixed;
+        width: 300px;
+        margin-left: 27%;
+        margin-top: 32%;
+    }
+
+    .rodape h3 {
+        font-size: 14px;
+    }
+
+}
+
+
+
+

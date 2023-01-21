@@ -22,7 +22,7 @@ O usuário não poderá escrever com letras maiúsculas nem usar acentuações <
 
 Tendo em vista a proposta do projeto, confira o resultado do meu projeto para o desafio! 😃 <br>
 
-Meu projeto no repositório on-line: https://duarterj.github.io/Criptografador/
+Meu projeto no repositório on-line: target_blank https://duarterj.github.io/Criptografador/
 
 ## Layout resolução Desktop:
 

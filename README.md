@@ -23,11 +23,11 @@ E esse foi o resultado do meu projeto para o desafio! 😃 <br>
 
 ## Vídeo do Criptografador (Confira o layout em outras resoluções abaixo do vídeo) <br>
 
-![Vídeo do criptografador](criptografador.mp4)
+[![Watch the video](criptografador.mp4)
 
 ## Layout resolução Desktop:
 
-![Layout na versão para desktop](desktop.png)
+[![Layout na versão para desktop](desktop.png)
 
 ## Layout resolução Mobile:
 

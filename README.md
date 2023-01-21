@@ -24,16 +24,16 @@ E esse foi o resultado do meu projeto para o desafio! 😃 <br>
 
 ## Layout resolução Desktop:
 
-[![Layout na versão para desktop](desktop.png)
+![Layout na versão para desktop](readme/desktop.png)
 
 ## Layout resolução Mobile:
 
-![Layout na versão para Mobile](mobile.png)
+![Layout na versão para Mobile](readme/mobile.png)
 
 
 
 ## Layout resolução Ipad, Tablet:
-![Layout na versão para Tablet](ipad.png)
+![Layout na versão para Tablet](readme/ipad.png)
 
 
  

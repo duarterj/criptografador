@@ -4,7 +4,7 @@
 
 Sobre o desafio:  <br>
 
-Desenvolver um criptografador de texto, na qual a lógica proposta da criptografias é a seguinte:<br>
+Desenvolver um criptografador de texto, na qual a lógica proposta da criptografia é a seguinte:<br>
 
 A letra "e" deverá ser convertida para "enter" <br>
 A letra "i" deverá ser convertida para "imes" <br> 

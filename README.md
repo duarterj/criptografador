@@ -21,9 +21,6 @@ O usuário não poderá escrever com letras maiúsculas nem usar acentuações <
 
 E esse foi o resultado do meu projeto para o desafio! 😃 <br>
 
-## Vídeo do Criptografador (Confira o layout em outras resoluções abaixo do vídeo) <br>
-
-[![Watch the video](criptografador.mp4)
 
 ## Layout resolução Desktop:
 

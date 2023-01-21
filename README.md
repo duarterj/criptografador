@@ -15,7 +15,7 @@ A letra "u" deverá ser convertida para "ufat" <br>
 
 Por exemplo:
 "gato" => "gaitober" <br> 
-gaitober" => "gato" <br> 
+"gaitober" => "gato" <br> 
 
 O usuário não poderá escrever com letras maiúsculas nem usar acentuações <br>
 

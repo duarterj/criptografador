@@ -1,8 +1,13 @@
-## Criptografador
 
-# Alura Challenge - 2023 
+<div align="center">
+  <h1>Projeto Criptografador</h1>
+  <p>Desafio Alura Challenge - JS/HTML/CSS <br>
+  Desenvolvido por Diogo Duarte.</p>
+</div>
 
-Sobre o desafio:  <br>
+# 🛠️ Sobre: 
+
+## ⚙ Proposta do desafio: 
 
 Desenvolver um criptografador de texto, na qual a lógica proposta da criptografia é a seguinte:<br>
 
@@ -24,7 +29,8 @@ Tendo em vista a proposta do projeto, confira o resultado do meu projeto para o 
 
 Meu projeto no repositório on-line: https://duarterj.github.io/Criptografador/
 
-## Layout resolução Desktop:
+
+## 🎯 Layouts do meu projeto: 
 
 ![Layout na versão para desktop](readme/desktop.png)
 
@@ -35,13 +41,3 @@ Meu projeto no repositório on-line: https://duarterj.github.io/Criptografador/
 
 ## Layout resolução Ipad, Tablet:
 ![Layout na versão para Tablet](readme/ipad.png)
-
-
-
-
- 
- 
- 
- 
-
-
